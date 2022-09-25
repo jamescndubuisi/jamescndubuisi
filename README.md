@@ -4,7 +4,7 @@
 
 👻 I'm currently working at [Nathan Claire](https://ncgafrica.com/) ⚡
 
-### I am a full stack developer on these 2 projects
+### I am a Fullstack developer on these 2 projects
 
 - [Stardusts](https://www.stardusts.org/) 🌞
 - [notify](https://notify.stardusts.org/) 🏠
