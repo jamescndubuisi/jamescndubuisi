@@ -17,12 +17,13 @@
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=Linux&logoColor=white&color=6A6C6E)
 ![](https://img.shields.io/badge/Windows-informational?style=flat&logo=Windows&logoColor=white&color=6A6C6E)
 ![](https://img.shields.io/badge/MacOS-informational?style=flat&logo=Apple&logoColor=white&color=6A6C6E)
+![](https://img.shields.io/badge/KaliLinux-informational?style=flat&logo=KaliLinux&logoColor=white&color=6A6C6E)
 
 ### Languages
 ![](https://img.shields.io/badge/JS-informational?style=flat&logo=JavaScript&logoColor=white&color=6A6C6E)
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=6A6C6E)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=6A6C6E)
-![](https://img.shields.io/badge/KaliLinux-informational?style=flat&logo=KaliLinux&logoColor=white&color=6A6C6E)
+
 
 
 ### Frameworks/Libraries
@@ -44,7 +45,8 @@ You can find me here [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-gr
 - Music 🏓
 - [Chess](https://lichess.org/@/TheJust) 🔫
 - Meditation ⛰
-- Reading 📖 
+- Reading 📖
+- [Cyber Security](https://tryhackme.com/p/thejust) 
 
 
 <!-- Links to your social media accounts -->
