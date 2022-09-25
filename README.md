@@ -7,7 +7,7 @@
 ### I am a Fullstack developer on these 2 projects
 
 - [Stardusts](https://www.stardusts.org/) 🌞
-- [notify](https://notify.stardusts.org/) 🏠
+- [Notify](https://notify.stardusts.org/) 🏠
 
 <br>
 
