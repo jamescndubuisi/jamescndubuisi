@@ -42,6 +42,8 @@
 You can find me here [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-grey?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/jamescndubuisi/)](https://www.linkedin.com/in/jamescndubuisi/) 
 [![Twitter](https://img.shields.io/badge/Twitter-grey?style=flat-square&logo=Twitter&logoColor=Blue&link=https://twitter.com/thejustmystic)](https://twitter.com/thejustmystic)[![Email](https://img.shields.io/badge/Gmail-grey?style=flat-square&logo=Gmail&logoColor=Blue&link=mailto:jamescndubuisi@gmail.com)](mailto:jamescndubuisi@gmail.com)
  
+ 
+ 
 ### Aside coding, I love : 
 - Music 🏓
 - [Chess](https://lichess.org/@/TheJust) 🔫
