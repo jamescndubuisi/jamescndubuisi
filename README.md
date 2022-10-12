@@ -4,11 +4,12 @@
 
 👻 I'm currently working at [Nathan Claire](https://ncgafrica.com/) ⚡
 
-### I am a Fullstack developer on these 2 projects
+### I am a Fullstack developer on these 4 projects
 
 - [Stardusts](https://www.stardusts.org/) 🌞
 - [Notify](https://notify.stardusts.org/) 🏠
-- [Ecommerce](https://ecommerce.stardusts.org/) 🌞
+- [E-commerce](https://ecommerce.stardusts.org/) 🌞
+- [TB Predictor](https://tbpredictor.stardusts.org/) 🏠
 
 <br>
 
