@@ -1,12 +1,12 @@
-## Hi there, I'm James; a Full Stack developer, living in [Enugu](https://goo.gl/maps/u1KVey8AESexxWfWA) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi there, I'm James; a Full Stack developer, living in [Edinburgh](https://maps.app.goo.gl/isJN7V7zvXPpYd37A) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jamescndubuisi&count_private=true&show_icons=true&hide_title=true&hide=stars,contribs&theme=dracula" />
 
-👻 I'm currently working at [Nathan Claire](https://ncgafrica.com/) ⚡
+👻 I worked at [Nathan Claire](https://ncgafrica.com/) ⚡
 
 ### I am a Fullstack developer on these 4 projects
 
-- [Stardusts](https://www.stardusts.org/) 🌞
+- [Profile](https://www.stardusts.org/) 🌞
 - [Notify](https://notify.stardusts.org/) 🏠
 - [E-commerce](https://ecommerce.stardusts.org/) 🌞
 - [TB Predictor](https://tbpredictor.stardusts.org/) 🏠
