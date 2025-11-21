@@ -6,10 +6,10 @@
 
 ### I am a Fullstack developer on these 4 projects
 
-- [Profile](https://www.stardusts.org/) 🌞
-- [Notify](https://notify.stardusts.org/) 🏠
-- [E-commerce](https://ecommerce.stardusts.org/) 🌞
-- [TB Predictor](https://tbpredictor.stardusts.org/) 🏠
+
+
+- [E-commerce](https://github.com/jamescndubuisi/opencommerce) 🌞
+- [AI Blooger](https://github.com/jamescndubuisi/blogger) 🏠
 
 <br>
 
