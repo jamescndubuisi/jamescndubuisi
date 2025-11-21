@@ -9,8 +9,9 @@
 
 
 - [E-commerce](https://github.com/jamescndubuisi/opencommerce) 🌞
-- [AI Blooger](https://github.com/jamescndubuisi/blogger) 🏠
-
+- [AI Blogger](https://github.com/jamescndubuisi/blogger) 🏠
+- [Enviro-IoT](https://github.com/jamescndubuisi/enviroiot) 🏠
+- [Open Hymnal](https://github.com/jamescndubuisi/openhymnal)
 <br>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamescndubuisi&hide=HTML,CSS&theme=dracula&langs_count=10" />
