@@ -1,4 +1,4 @@
-## Hi there, I'm James; a Data Analyst / Data Engineer, living in [Edinburgh](https://maps.app.goo.gl/isJN7V7zvXPpYd37A) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi there, I'm James; a Web developer / Data Scientist, living in [Edinburgh](https://maps.app.goo.gl/isJN7V7zvXPpYd37A) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jamescndubuisi&count_private=true&show_icons=true&hide_title=true&hide=stars,contribs&theme=dracula" />
 
